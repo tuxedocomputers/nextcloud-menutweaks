@@ -1,12 +1,12 @@
 # Nextcloud Menu-Tweaks
 
-Nextcloud Menu-Tweaks ergänzt `Kontakt`- und `Datenschutz`-Links in allen relevanten Benutzeroberflächen einer Nextcloud-Instanz.
+Nextcloud Menu-Tweaks ergänzt `Kontakt`- und `Impressum`-Links in allen relevanten Benutzeroberflächen einer Nextcloud-Instanz.
 
 ## Einbindung
 
 Am Einfachsten ist es, die offizielle [JsJoader](https://github.com/nextcloud/jsloader)-App zu verwenden.
 
-1. JsLoader von GitHub herunterladen und in den Ordner /nextcloud/apps/ kopieren
+1. [JsJoader von GitHub herunterladen](https://github.com/nextcloud/jsloader) und in den Ordner `/nextcloud/apps/` kopieren
 2. In den Einstellungen unter dem Punkt `JavaScript loader` das Code-Snippet hineinkopieren (Das untere Domain-Feld kann leer bleiben)
 3. Speichern - Fertig.
 
@@ -16,6 +16,4 @@ Das Script kann bei Bedarf auch zu einer vollständigen alleinstehenden App ausg
 
 ## Autor
 
-Stefan Niedermann - Niedermann IT-Dienstleistungen
-[www.niedermann.it](https://www.niedermann.it)
-info@niedermann.it
+Stefan Niedermann - Niedermann IT-Dienstleistungen | [www.niedermann.it](https://www.niedermann.it) | info@niedermann.it
